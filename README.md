@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had issues editing the item and showing the update on the screen. An error kept saying that the editText() was refering to a null pointer.
 
 ## License
 
